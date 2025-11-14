@@ -1,62 +1,44 @@
-# 😺 自己紹介
+# 👋 自己紹介
 
 ### 名前・生年月日
 
-> 森田　葵 (もりた　あおい)
->
-> 2000 年 8 月 26 日
+森田　葵 (もりた　あおい)
+
+2000 年 8 月 26 日
 
 ### 学校
 
-> IT カレッジ沖縄　 IT スペシャリスト科　情報工学コースに在籍しています。
->
-> (2027 年卒業予定)
+🏫 IT カレッジ沖縄　 IT スペシャリスト科　情報工学コース : 在籍
 
-# 🤓 技術スタック
+(2027 年卒業予定)
 
-> 専門学校で未経験からプログラミングを学び、現在は Web アプリケ-ション開発の学習に注力しています。
-> 現在は学内のイベントでチームを組み、イベントに参加する学生に楽しんでもらえるようなアプリケーション開発に挑戦しています。
+# 🌱 技術スタック
 
-### 言語
+> 高校は普通科を卒業。専門学校入学後は未経験からITの知識やプログラミングを学び、現在はWebアプリケーション開発の勉強をしております。
+最近では学内のイベントに参加する学生に楽しんでもらえるようなWebアプリケーション開発をチームで取り組みました。
 
-> - Java
-> - Python
-> - Kotlin
-> - HTML
-> - CSS
-> - Javascript
-
-### フレームワーク・ツール
-
-> - Next.js
-> - Bootstrap
-> - GitHub
+| カテゴリ              | 使用技術                             |
+| --------------------- | ------------------------------------ |
+| 💻 言語               | Java, Python, JavaScript             |
+| 🎨 フロントエンド     | Next.js, HTML, CSS, Bootstrap        |
+| ⚙️ バックエンド       | Node.js                              |
+| 🧰 開発環境・ツール等 | GitHub, VSCode, IntelliJ IDEA, Slack |
 
 # 💻 制作物
 
-> - おすすめのお店サイト
+> **体重管理機能**
 >
-> - リンク
+> リポジトリ : [weight management app](https://github.com/itc-s24027/weight_management_app)
 
-> - 作品名
+> **スタンプラリー**
 >
-> - リンク
+> リポジトリ : [stamp rally](https://github.com/itc-s24027/StampRally)
 
-# 💡 興味がある＆今後触れてみたい技術
+# 💡 興味がある＆今後取り組みたいこと
+
+- Web アプリ開発
+-
 
 # 📞 連絡先
 
-<!--
-**itc-s24027/itc-s24027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+メールアドレス : [ s24027@itc.it-college.ac.jp ]
