@@ -41,10 +41,14 @@ SEA/J 情報セキュリティ技術認定　基礎コース
 >
 > リポジトリ : [stamp rally](https://github.com/itc-s24027/StampRally)
 
+> **日記閲覧サイト**
+>
+> リポジトリ : [mydiary](https://github.com/itc-s24027/mydiary)
+
 # 💡 興味がある＆今後取り組みたいこと
 
 - Web アプリ開発
--
+- バックエンドを自分の力で実装できるようになりたい
 
 # 📞 連絡先
 
