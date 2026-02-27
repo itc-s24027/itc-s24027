@@ -13,11 +13,15 @@
 (2027 年卒業予定)
 
 # ✍ 資格
-CompTIA IT Fundamentals
+* SEA/J Certified Security Basic Master
+* CompTIA IT Fundamentals(ITF+)
+* インターネット検定 ドットコムマスター ベーシック
+* Linux技術者認定資格 LinuCレベル1 101試験
+* サーティファイ Javaプログラミング能力認定試験 3級
+* サーティファイ コミュニケーション検定 初級
 
-SEA/J 情報セキュリティ技術認定　基礎コース
-
-.com Master BASIC
+### 今後取りたい資格
+* Linux技術者認定資格 LinuCレベル1 102試験
 
 Linux技術者認定資格 LinuCレベル1 101試験
 （102試験は今後取得予定）
@@ -29,18 +33,27 @@ Linux技術者認定資格 LinuCレベル1 101試験
 
 | カテゴリ              | 使用技術                             |
 | --------------------- | ------------------------------------ |
-| 💻 言語               | Java, Python, JavaScript             |
-| 🎨 フロントエンド     | Next.js, HTML, CSS, Bootstrap        |
-| ⚙️ バックエンド       | Node.js                              |
-| 🧰 開発環境・ツール等 | GitHub, VSCode, IntelliJ IDEA, Slack |
+| 💻 言語               | Java, Python, JavaScript, TypeScript             |
+| 🎨 フロントエンド・フレームワーク    |  HTML, CSS, Next.js,Bootstrap        |
+| ⚙️ バックエンド ・フレームワーク      | Node.js, Express                              |
+|データベース           | MariaDB                               |
+| 🧰 開発環境・ツール等 |  VSCode, IntelliJ IDEA, Slack, GitHub |
+
+### 今後触ってみたい言語や技術
+* PHP
 
 # 💻 制作物
 
-> **体重管理機能**
+> **体重管理機能**<br>
+>制作日：1 年生の初めて Java に触れた授業で課題として制作<br>
+>制作人数：個人制作<br>
+>概要：体重を管理するための機能でローカル環境で動きます。<br>
+>イメージ：<br>
+>技術スタック:<br>
 >
 > リポジトリ : [weight management](https://github.com/itc-s24027/weight_management_app)
 
-> **スタンプラリー**
+> **スタンプラリー**<br>
 >
 > リポジトリ : [stamp rally](https://github.com/itc-s24027/StampRally)
 
@@ -48,10 +61,15 @@ Linux技術者認定資格 LinuCレベル1 101試験
 >
 > リポジトリ : [mydiary](https://github.com/itc-s24027/mydiary)
 
+> **言い訳生成アプリ**
+>
+> リポジトリ : [excuse_maker_app](https://github.com/itc-s24027/excuse_maker_app)
+
 # 💡 興味がある＆今後取り組みたいこと
 
 - Web アプリ開発
-- バックエンドを自分の力で実装できるようになりたい
+- モバイルアプリ開発
+- たくさんのフレームワークに触れたい
 
 # 📞 連絡先
 
